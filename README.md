@@ -30,11 +30,15 @@ Sample ASP.NET Core MVC app with database, UI tests (Selenium) and ARM template 
   </br>
   
   <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/HoussemDellai/WebAppWithDatabaseDemo/master/AzureResourceGroupDeployment/WebSiteSQLDatabase.json" target="_blank">
+       <!--
   <img src="http://armviz.io/visualizebutton.png"/>
+   -->
 </a>
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FHoussemDellai%2FWebAppWithDatabaseDemo%2Fmaster%2FAzureResourceGroupDeployment%2FWebSiteSQLDatabase.json" rel="nofollow">
+     <!--
     <img src="http://azuredeploy.net/deploybutton.png" style="max-width:100%;">
+   -->
 </a>
 
 </br>
@@ -52,4 +56,6 @@ https://www.youtube.com/watch?v=uVne2HXkWXI&list=PLpbcUe4chE78FEvDjD9zfzSGvsdkvk
 </a>
 
 Pipelines flows are sketched in this picture:
+   <!--
 <image src="https://github.com/HoussemDellai/WebAppWithDatabaseDemo/blob/master/docs/CI-CD-Pipelines.jpg?raw=true"/>
+   -->
