@@ -12,7 +12,7 @@ Sample ASP.NET Core MVC app with database, UI tests (Selenium) and ARM template 
   </tr>
   <tr>
     <td>
-      <!
+      <!--
 <img src="https://houssemdellai.visualstudio.com/WebAppWithDatabaseDemo/_apis/build/status/WebAppWithDatabase-CI-mutiphase?branchName=master"/>
     </td>
     <td>
