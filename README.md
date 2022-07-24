@@ -12,6 +12,7 @@ Sample ASP.NET Core MVC app with database, UI tests (Selenium) and ARM template 
   </tr>
   <tr>
     <td>
+      <!
 <img src="https://houssemdellai.visualstudio.com/WebAppWithDatabaseDemo/_apis/build/status/WebAppWithDatabase-CI-mutiphase?branchName=master"/>
     </td>
     <td>
@@ -25,7 +26,7 @@ Sample ASP.NET Core MVC app with database, UI tests (Selenium) and ARM template 
   </td>
   </tr>
   </table>
-  
+  -->
   </br>
   
   <a href="http://armviz.io/#/?load=https://raw.githubusercontent.com/HoussemDellai/WebAppWithDatabaseDemo/master/AzureResourceGroupDeployment/WebSiteSQLDatabase.json" target="_blank">
